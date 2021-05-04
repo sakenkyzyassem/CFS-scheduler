@@ -1,0 +1,3 @@
+<template>
+  <input-field default="rbt.scheduler">IJ_BASE_PACKAGE</input-field>
+</template>
